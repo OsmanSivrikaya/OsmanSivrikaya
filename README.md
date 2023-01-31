@@ -8,7 +8,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="mailto:osmansivrikaya@outlook.com">
-            <img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=blue" alt="LinkedIn Badge"/>
         </a>
         <br/>
         <img src="https://komarev.com/ghpvc/?username=OsmanSivrikaya&style=flat-square" alt=""/>
