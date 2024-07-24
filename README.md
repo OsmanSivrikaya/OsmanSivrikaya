@@ -13,6 +13,7 @@
         <br/>
         <!--<img src="https://komarev.com/ghpvc/?username=OsmanSivrikaya&style=flat-square" alt=""/>-->
     </div>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmanSivrikaya&show_icons=true&locale=en&layout=compact" alt="OsmanSivrikaya" /></p>
 </div>
 
 <hr/>
@@ -54,7 +55,3 @@
 </div>
 
 <hr/>
-
-### 🔥 İstatistiklerim:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmanSivrikaya&show_icons=true&locale=en&layout=compact" alt="OsmanSivrikaya" /></p>
-
