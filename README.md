@@ -56,10 +56,5 @@
 <hr/>
 
 ### 🔥 İstatistiklerim:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OsmanSivrikaya&theme=dark&background=000000)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSivrikaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OsmanSivrikaya&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmanSivrikaya&show_icons=true&locale=en&layout=compact" alt="OsmanSivrikaya" /></p>
 
