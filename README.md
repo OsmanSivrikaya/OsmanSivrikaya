@@ -19,7 +19,15 @@
 <hr/>
 
 ### 👨‍💻 Hakkımda:
--
+Merhaba! Ben Osman, yazılım geliştiricisiyim. 3 yıldır .NET ve .NET API geliştirmesi yapıyorum. Bu süreçte edindiğim bilgi ve deneyimleri burada paylaşarak hem kendimi geliştirmeye hem de diğer geliştiricilere yardımcı olmaya çalışıyorum.
+
+🚀 Öğrendiğim yenilikler ve tekniklerle projelerimi zenginleştirerek, sürekli olarak gelişmeyi hedefliyorum. GitHub sayfamda, öğrendiğim konularla ilgili notlar ve örnek projeler bulabilirsiniz.
+
+📚 Yeteneklerim
+.NET MVC ve .NET Core API geliştirme
+.NET Microservices ile modern mimariler üzerinde çalışma
+Frontend geliştirme konusunda React ve Vue.js ile ilgileniyor ve bu teknolojiler üzerinde geliştirme yapmaya çalışıyorum
+Yazılım mimarisi ve tasarım desenleri
 
 ### 🛠️Kullandığım teknolojiler:
 <div>
