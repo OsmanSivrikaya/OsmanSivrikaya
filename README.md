@@ -1,17 +1,19 @@
 <div align="center">
-<h1>Selamlar, ben Osman 👋</h1>
-<p><strong>Full Stack Developer | .NET Expert</strong></p>
+  <h1>Selamlar, ben Osman 👋</h1>
+  <p><strong>Full Stack Developer | .NET Expert</strong></p>
 
-<a href="https://www.linkedin.com/in/osman-sivrikaya-a27000227/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:osmansivrikaya@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/osman-sivrikaya-a27000227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:osmansivrikaya@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSivrikaya&layout=compact&theme=dark&hide_border=true" alt="Osman's Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSivrikaya&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Osman's Top Langs" />
+  </a>
 </div>
 
 <hr/>
@@ -37,5 +39,7 @@ Sektörel deneyimlerimi ve teknik notlarımı projelerime yansıtarak topluluğa
 <hr/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanSivrikaya&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanSivrikaya&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
