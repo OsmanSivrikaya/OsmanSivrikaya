@@ -11,9 +11,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSivrikaya&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Osman's Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSivrikaya&layout=compact&theme=dark&hide_border=true&v=1" alt="Osman's Top Langs" />
 </div>
 
 <hr/>
@@ -39,7 +37,5 @@ Sektörel deneyimlerimi ve teknik notlarımı projelerime yansıtarak topluluğa
 <hr/>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanSivrikaya&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanSivrikaya&theme=dark&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
