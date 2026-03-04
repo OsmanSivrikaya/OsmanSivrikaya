@@ -1,60 +1,40 @@
 <div align="center">
-    <h3>Hi there 👋</h3>
-    <div id="header">
-        <img src="https://media1.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
-    </div>
+    <h1>Selamlar, ben Osman 👋</h1>
+    <p><strong>Full Stack Developer | .NET Expert | Solution Architect Enthusiast</strong></p>
     <div id="badges">
         <a href="https://www.linkedin.com/in/osman-sivrikaya-a27000227/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="mailto:osmansivrikaya@outlook.com">
-            <img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=blue" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
         </a>
-        <br/>
-        <!--<img src="https://komarev.com/ghpvc/?username=OsmanSivrikaya&style=flat-square" alt=""/>-->
     </div>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmanSivrikaya&show_icons=true&locale=en&layout=compact" alt="OsmanSivrikaya" /></p>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmanSivrikaya&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="OsmanSivrikaya" />
 </div>
 
 <hr/>
 
-### 👨‍💻 Hakkımda:
-Merhaba! Ben Osman, yazılım geliştiricisiyim. 3 yıldır .NET ve .NET API geliştirmesi yapıyorum. Bu süreçte edindiğim bilgi ve deneyimleri burada paylaşarak hem kendimi geliştirmeye hem de diğer geliştiricilere yardımcı olmaya çalışıyorum.
+### 🚀 Hakkımda
+Yazılım dünyasında modern, ölçeklenebilir ve yüksek performanslı kurumsal çözümler üreten bir **Yazılım Geliştiriciyim**. Kariyerim boyunca özellikle **.NET ekosistemi** üzerinde derinleşerek, karmaşık iş süreçlerini uçtan uca yöneten API'ler ve web uygulamaları geliştirdim.
 
-🚀 Öğrendiğim yenilikler ve tekniklerle projelerimi zenginleştirerek, sürekli olarak gelişmeyi hedefliyorum. GitHub sayfamda, öğrendiğim konularla ilgili notlar ve örnek projeler bulabilirsiniz.
+Sadece kod yazmaya değil; temiz kod (Clean Code), sürdürülebilir mimari ve kullanıcı deneyimi yüksek arayüzler inşa etmeye odaklanıyorum. Teknolojiyi bir araç olarak görüyor, ihtiyaca en uygun stack'i belirleyerek verimli sonuçlar almayı hedefliyorum.
 
-### 📚 Yeteneklerim:
-<ul>
-    <li>.NET MVC ve .NET Core API geliştirme</li>
-    <li>Frontend geliştirme konusunda React ve Vue.js ile ilgileniyor ve bu teknolojiler üzerinde geliştirme yapmaya çalışıyorum</li>
-    <li>Yazılım mimarisi ve tasarım desenleri</li>
-</ul>
+### 🛠️ Uzmanlık Alanları & Teknolojiler
 
-### 🛠️Kullandığım teknolojiler:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotnetCore" alt="DotnetCore" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="CSS3" alt="HTML5" width="HTML5" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  
-</div>
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Backend** | .NET Core, ASP.NET Web API, Entity Framework |
+| **Frontend** | Vue.js, JavaScript (ES6+), TypeScript, Bootstrap, CSS3 |
+| **Database** | MSSQL, PostgreSQL, MySQL, MongoDB |
+| **Tools & DevOps** | Git, Docker, CI/CD, Visual Studio, Postman |
+| **Architectures** | Clean Architecture, Onion Architecture, Design Patterns |
 
-### 🛠️Öğrenmekte olduğum teknolojiler:
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+### ✍️ Blog & Paylaşımlar
+Öğrendiğim teknik detayları ve sektörel deneyimlerimi projelerime yansıtarak topluluğa katkı sağlamayı amaçlıyorum. Repo'larımda bu mimari yaklaşımların pratik örneklerini bulabilirsiniz.
+
+<hr/>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanSivrikaya&theme=dark" alt="GitHub Streak" />
 </div>
