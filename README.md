@@ -11,15 +11,23 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanSivrikaya&layout=compact&theme=dark&hide_border=true&v=1" alt="Osman's Top Langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=OsmanSivrikaya&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" alt="Osman's GitHub Stats" />
+  </a>
+  <br/>
 </div>
 
 <hr/>
 
-### 🚀 Hakkımda
-Yazılım dünyasında modern, ölçeklenebilir ve yüksek performanslı kurumsal çözümler üreten bir **Full Stack Developer**'ım. Özellikle **.NET** ekosistemi üzerinde uzmanlaşarak, kurumsal düzeyde API'ler ve web uygulamaları geliştiriyorum.
+### 🚀 Öne Çıkan Özellikler
 
-Temiz kod prensipleri ve sürdürülebilir mimari yapıları (Clean Architecture) işimin merkezine koyarak, her projede en verimli teknoloji stack'ini kurgulamayı hedefliyorum.
+Ocak ayından beri geliştirdiğim modern ve ölçeklenebilir kurumsal çözümlerle Full Stack deneyimimi pekiştiriyorum. İşte öne çıkan yetkinliklerim:
+
+* **Mimari Uzmanlık:** Clean Architecture ve Onion Architecture ile sürdürülebilir ve temiz kod yapıları kurguluyorum.
+* **Backend Gücü:** .NET Core ve ASP.NET Web API ile yüksek performanslı API'ler ve verimli veri katmanları (Entity Framework) geliştiriyorum.
+* **Modern Frontend:** Vue.js, React ve TypeScript kullanarak interaktif ve kullanıcı dostu arayüzler sunuyorum.
+
+<hr/>
 
 ### 🛠️ Uzmanlık Alanları & Teknolojiler
 
@@ -31,11 +39,15 @@ Temiz kod prensipleri ve sürdürülebilir mimari yapıları (Clean Architecture
 | **Tools** | Git, Docker, CI/CD, Visual Studio, Postman |
 | **Architectures** | Clean Architecture, Onion Architecture, Design Patterns |
 
+<hr/>
+
 ### ✍️ Blog & Paylaşımlar
 Sektörel deneyimlerimi ve teknik notlarımı projelerime yansıtarak topluluğa katkı sağlamayı amaçlıyorum. Repo'larımda modern mimari yaklaşımların pratik örneklerini bulabilirsiniz.
 
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanSivrikaya&theme=dark&hide_border=true&v=1" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanSivrikaya&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
