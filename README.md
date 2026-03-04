@@ -1,15 +1,16 @@
 <div align="center">
     <h1>Selamlar, ben Osman 👋</h1>
-    <p><strong>Full Stack Developer | .NET Expert | Solution Architect Enthusiast</strong></p>
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/osman-sivrikaya-a27000227/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="mailto:osmansivrikaya@outlook.com">
-            <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
-        </a>
-    </div>
-    <br/>
+    <p><strong>Full Stack Developer | .NET Expert</strong></p>
+    
+    <a href="https://www.linkedin.com/in/osman-sivrikaya-a27000227/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:osmansivrikaya@outlook.com">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
+    </a>
+
+    <br/><br/>
+
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmanSivrikaya&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="OsmanSivrikaya" />
 </div>
 
