@@ -2,7 +2,7 @@
   <h1>Selamlar, ben Osman 👋</h1>
   <p><strong>Backend Developer | .NET & Java Ecosystems</strong></p>
 
-  <a href="https://www.linkedin.com/in/osmansivrikaya/" target="_blank">
+  <a href="https://www.linkedin.com/in/osman-sivrikaya-a27000227" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://ceyizim.net" target="_blank">
