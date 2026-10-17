@@ -16,13 +16,13 @@
 <hr/>
 
 ### 🚀 Hakkımda & Odak Alanlarım
-Katılım bankacılığı, fintek ve kurumsal yazılım ekosistemlerinde görev almış, güvenli RESTful API mimarileri ve asenkron sistemler üzerine odaklanan bir Backend Developer'ım.
+Katılım bankacılığı, fintek ve kurumsal yazılım ekosistemlerinde görev almış, RESTful API mimarileri ve asenkron sistemler üzerine odaklanan bir Backend Developer'ım.
 
-- **Backend & API:** ASP.NET Core Web API, Katmanlı Mimari, RESTful servis sözleşmeleri ve RBAC yetkilendirme altyapıları.
-- **Asenkron Süreçler & Kuyruk:** RabbitMQ ile yüksek kaynak tüketen iş yüklerinin ana akıştan izole edilmesi ve API yanıt sürelerinin optimizasyonu.
-- **Veri & Depolama:** PostgreSQL ve MSSQL üzerinde ilişkisel veri modelleme, MinIO nesne depolama entegrasyonları.
+- **Backend & Servis Mimarisi:** C# / .NET (ASP.NET Core Web API) ve Java (Spring Boot) ile katmanlı mimari, güvenli REST servisleri ve rol bazlı (RBAC) yetkilendirme.
+- **Asenkron Kuyruklar & Entegrasyon:** RabbitMQ ile yüksek kaynak tüketen iş yüklerinin ana akıştan izole edilmesi ve servis yanıt sürelerinin optimizasyonu.
+- **Veri & Depolama:** PostgreSQL ve MSSQL üzerinde ilişkisel veri modelleme, EF Core ve Spring Data JPA yaklaşımları, MinIO nesne depolama.
 - **Canlı Ürün Sahipliği:** Fikir aşamasından App Store ve Google Play yayınına kadar backend ve altyapı süreçlerini uçtan uca yönettiğim [ceyizim.net](https://ceyizim.net) platformunun geliştiricisi ve ürün sahibiyim.
-- **Teknik İçerik:** [versoblog.com](https://versoblog.com) üzerinde backend mimarileri, veri tabanı ve yazılım yaklaşımları üzerine teknik notlar paylaşıyorum.
+- **Teknik Paylaşım:** [versoblog.com](https://versoblog.com) üzerinde backend mimarileri, veri tabanı ve yazılım pratikleri üzerine teknik notlar paylaşıyorum.
 
 <hr/>
 
@@ -30,9 +30,9 @@ Katılım bankacılığı, fintek ve kurumsal yazılım ekosistemlerinde görev 
 
 ```json
 {
-  "backend": [".NET 8/9", "C#", "ASP.NET Core Web API", "EF Core", "Dapper"],
+  "languages": ["C#", "Java", "SQL"],
+  "backend_frameworks": [".NET 8/9", "ASP.NET Core Web API", "Spring Boot", "EF Core"],
   "messaging_storage": ["RabbitMQ", "MinIO"],
   "database": ["PostgreSQL", "MSSQL"],
-  "devops_tools": ["Docker", "Git", "Postman", "Swagger"],
-  "familiar": ["Java", "Spring Boot", "Spring Data JPA", "Vue.js"]
+  "devops_tools": ["Docker", "Git", "Postman", "Swagger"]
 }
