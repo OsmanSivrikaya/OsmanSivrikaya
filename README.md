@@ -2,8 +2,11 @@
   <h1>Selamlar, ben Osman 👋</h1>
   <p><strong>Backend Developer | .NET & Java Ecosystems</strong></p>
 
-  <a href="https://www.linkedin.com/in/osman-sivrikaya-a27000227/" target="_blank">
+  <a href="https://www.linkedin.com/in/osmansivrikaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://ceyizim.net" target="_blank">
+    <img src="https://img.shields.io/badge/Proje-ceyizim.net-e11d48?style=for-the-badge&logo=safari&logoColor=white" alt="Çeyizim Badge"/>
   </a>
   <a href="https://versoblog.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-versoblog.com-blueviolet?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/>
